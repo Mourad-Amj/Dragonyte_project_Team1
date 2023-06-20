@@ -1083,7 +1083,7 @@
       <connection class='federated'>
         <named-connections>
           <named-connection caption='market_size' name='textscan.0irfdli0q7v85r1djf6ml0n1k5n5'>
-            <connection class='textclean' cleaning='yes' compat='no' csvFile='C:/Users/Moura/git/Dragonyte_project/clean_data/market_size.csv' dataRefreshTime='' directory='C:/Users/Moura/git/Dragonyte_project/clean_data' filename='C:/Users/Moura/AppData/Local/Temp/TableauTemp/0xc3mwh1j3tr3a10pulnj0o1v4z9/market_size.csv.xlsx' interpretationMode='8' password='' server='' validate='no' />
+            <connection class='textclean' cleaning='yes' compat='no' csvFile='C:/Users/Moura/git/Dragonyte_project/clean_data/market_size.csv' dataRefreshTime='' directory='C:/Users/Moura/git/Dragonyte_project/clean_data' filename='C:/Users/Moura/AppData/Local/Temp/TableauTemp/0ai66o21irt2wq10ln0n41ag001h/market_size.csv.xlsx' interpretationMode='8' password='' server='' validate='no' />
           </named-connection>
         </named-connections>
         <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.0irfdli0q7v85r1djf6ml0n1k5n5' name='categories.csv' table='[categories#csv$]' type='table'>
